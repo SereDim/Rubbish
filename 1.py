@@ -21,5 +21,5 @@ for j in b:#
         g.write(j)#
 b=str(b)#
 f.write(b)#
-f=open('f.txt', 'r')3
+f=open('f.txt', 'r')
 g=open('g.txt', 'r')#чтение 2 файлов
